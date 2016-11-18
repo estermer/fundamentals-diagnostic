@@ -22,7 +22,7 @@ _Replace this text with your answer._
 
 Describe GitHub, **briefly** in your own words.
 
-stuff
+HERE IS MY ANSWER
 
 ## Question 3
 
@@ -32,7 +32,7 @@ stuff
 
 Is the value of this expression `true` or `false`?  Explain your answer.
 
-_Replace this text with your answer._
+HERE IS MY ANSWER
 
 ## Question 4
 
@@ -62,7 +62,7 @@ var result = strangeAdd(0, -5);
 
 What is the value of result?  Explain your answer.
 
-_Replace this text with your answer._
+HERE IS MY ANSWER
 
 ## Question 6
 
@@ -76,7 +76,7 @@ var groceryList = [
 
 What is the value of `groceryList[2]`?
 
-_Replace this text with your answer._
+HERE IS MY ANSWER
 
 ## Question 7
 
@@ -94,4 +94,4 @@ var teamMember = {
 What is the value of `teamMember['hobby']`?  Of `teamMember['name']`?  Of
 `teamMember['name']['surname']`?
 
-_Replace this text with your answer._
+HERE IS MY ANSWER
